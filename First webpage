@@ -1,0 +1,44 @@
+<!doctype>
+<html>
+<head>
+<title>"CHENNAI INSTITUTE OF TECHNOLOGY"</title>
+<body>
+<h1 align="center"><font color="#00008B">CHENNAI INSTITUTE OF TECHNOLOGY </font></h1>
+<h2 align= "center"><font size="5"><font color="#00008B">(Autonomous) counselling code- 1399</font></h2><hr>
+<h3 align="center"><font size="10"><font color="#800000">ADMISSION PORTAL</font></h3></head>
+<p> <font size="4">CIT,Chennai is one of the top most INDUSTRY CONNECTED autonomous institute in Tamilnadu. We provide various B.E and B.Tech courses and offer various CENTERS OF EXCELLENCE that strengthens the students future and moulds them for better and highly paid jobs in thier career.</font>
+<p><font color=#007C80><font size="5">COURSES OFFERED</font></P>
+<ol><font size="4"><font color=" #454545"><li>Computer Science and Engineering</li><li>Mechanical Engineering</li><li> Civil Engineering</li><li>B.Tech., Information Technology</li><li>Mechatronics</li><li>Cyber Security</li><li> Cyber Security and Business Systems</li></font></ol>
+<p><font size="5"><font color=" #2554C7"> CENTER OF EXCELLENCE</font>
+<ul><font size="5"><font color="#3D3C3A"><li>Internet Of Things</li><li>Drone Technology</li><li>Web and App Development</li><li>Incubation Center</li><li>VLSI</li><li>Networking</li><li>KUKA Robotics</li></font></ul>
+<div align="center"> College Registration</div> 
+<form><fieldset><legend> Personal Details</legend>
+<label><B>First Name:</B><input type="text" required max length="10"></input></label><br>
+<label><B>Middle Name:</B><input type="text" required max length="10"></input></label><br>
+<label><B>Last Name:</B><input type="text" required max length="10"></input></label><br>
+<label><B>Gender:</B><input type="radio" name="gender" value="Male" <label>Male</label><input type="radio" name="gender" value="Female" <label>Female</label><br>
+<label><B>Date Of Birth:</B><input type="date" name="DOB" </label><br>
+<label><B>Parent's Name:</B><input type="text" required max length="10" ></input></label><br>
+<label><B>Mobile No:</B><input type="tel" name="phone number" required max length="10"></input></label><br>
+<label><B>Address:</B><textarea id="address" name="Address" rows="5" cols="35"></textarea></label><br>
+<label><B>E-mail:</B><input type="email"></label><br>
+<label><B>Quota:</B><select name="quota"><option value="Management">Management</option><option value="Government">Government</option></select></label><br>
+<center><button type="Submit" value="Submit">Submit
+<button type="reset" value="reset">Reset</button></center></fieldset>
+<fieldset><legend>Academic Details</legend><br>
+<label><B>HSC ROLL NO:</B><input type="number" ></input></label><br>
+<label><B>HSC maximum marks:</B><input type="number" ></input></label><br>
+<label><B>HSC Marks obtained:</B><input type="number" ></input></label><br>
+<label><B>SSLC ROLL NO:</B><input type="number" ></input></label><br>
+<label><B>SSLC Maximum marks:</B><input type="number" ></input></label><br>
+<label><B>SSLC Obtained marks:</B><input type="number"></input></label><br>
+<label><B>Group chosen in higher secondary edu:</B><select name="group"><option value="bio maths">BIO-MATHS</option><option value="Com maths">COM-MATHS</option><option value="Others">OTHERS</option></select></label><br>
+<label><B>Cut off:</B><input type="numbers"></input></label><br>
+<center><button type="Submit" value="Submit">Submit
+<button type="reset" value="reset">Reset</button></center></fieldset>
+<p><font size="5"><font color="#622F22">To know morw about the campus visit:</font></p>
+<a href="https://www.citchennai.edu.in/">https://www.citchennai.edu.in/</a>
+<center><button type="Submit" value="Submit">Submit the form </button></form></center>
+<p>To know the result for your admission process contact the college office <B>6520158121</B></p>
+</body>
+</html>
